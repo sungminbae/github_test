@@ -24,7 +24,7 @@ namespace github_test2
             int temp2 = 3;
 
             
-            
+            string myname = "";
             
         }
     }
