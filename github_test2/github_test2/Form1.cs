@@ -24,10 +24,13 @@ namespace github_test2
             int temp2 = 3;
 
 
-            
-            
 
-            string temp4 = "되는지 보자";
+
+
+           
+
+
+            string myname = "";
 
         }
     }
