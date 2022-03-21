@@ -25,7 +25,7 @@ namespace github_test2
 
 
 
-            int one = 22;
+            
 
            
 
