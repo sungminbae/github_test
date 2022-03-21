@@ -20,6 +20,9 @@ namespace github_test2
             int test = 1;//new comment
 
             string temp = "코드를 만들어보자";
+            
+            int temp2 = 3;
+            
         }
     }
 }
