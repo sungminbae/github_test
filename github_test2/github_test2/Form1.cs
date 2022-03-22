@@ -25,7 +25,7 @@ namespace github_test2
 
 
 
-            
+            //수정하면 수정내용을 patch로 보면 되는건인가
            
 
 
