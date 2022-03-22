@@ -44,8 +44,6 @@ namespace github_test2
             
 
             string str_test = "나는브릿지2 모두 main으로 머지하려한다.";
-            
-            int testmp9 = 9;
 
         }
     }
