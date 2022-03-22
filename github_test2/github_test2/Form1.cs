@@ -38,6 +38,9 @@ namespace github_test2
 
             int test5 = 5;//브랜치를 또 추가한다. 
             
+            
+            string tset6 = "나는 브릿지1 사람 그르는거 아니다!!!!";
+            
         }
     }
 }
