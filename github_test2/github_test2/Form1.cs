@@ -43,6 +43,11 @@ namespace github_test2
             string tset6 = "나는 브릿지1 사람 그르는거 아니다!!!!";
             
 
+            string str_test = "나는브릿지2 모두 main으로 머지하려한다.";
+
+
+            int test8 = 8;
+
         }
     }
 }
