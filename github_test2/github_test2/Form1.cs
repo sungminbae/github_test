@@ -27,7 +27,7 @@ namespace github_test2
 
             //수정하면 수정내용을 patch로 보면 되는건인가
            //언제 패치된 걸 보는가
-
+            //로컬에서 수정한 상태이다. 그 와중에 원격지 소스를 수정하겠다.
 
             string myname = "";
             int test2 = 3;
