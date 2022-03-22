@@ -27,7 +27,7 @@ namespace github_test2
 
             //수정하면 수정내용을 patch로 보면 되는건인가
            //언제 패치된 걸 보는가
-
+            //수정은 원격지에서 한다
 
             int test2 = 3;
 
