@@ -35,6 +35,9 @@ namespace github_test2
 
             int test4 = 4;//브리지로 추가하겠다. 
             
+            
+            string tset6 = "나는 브릿지1 사람 그르는거 아니다!!!!";
+            
         }
     }
 }
