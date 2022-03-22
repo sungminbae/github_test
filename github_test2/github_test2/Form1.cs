@@ -33,7 +33,10 @@ namespace github_test2
 
             int test3 = 3;//내용을 추가하겠다.
 
-            int test4 = 4;//브리지로 추가하겠다. 
+            int test4 = 4;//브랜치로 추가하겠다. 
+
+
+            int test5 = 5;//브랜치를 또 추가한다. 
             
         }
     }
