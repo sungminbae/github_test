@@ -38,6 +38,8 @@ namespace github_test2
 
             int test5 = 5;//브랜치를 또 추가한다. 
             
+            
+            string str_test = "나는브릿지2 모두 main으로 머지하려한다.";
         }
     }
 }
