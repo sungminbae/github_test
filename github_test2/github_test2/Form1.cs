@@ -23,7 +23,7 @@ namespace github_test2
             
             int temp2 = 3;
 
-
+            string test_smbae = "원본 변경한 상태에서 동기화 안하고 서버 수정되서 끌어오면... 어렵군";
 
             //수정하면 수정내용을 patch로 보면 되는건인가
            //언제 패치된 걸 보는가
@@ -44,6 +44,9 @@ namespace github_test2
             
 
             string str_test = "나는브릿지2 모두 main으로 머지하려한다.";
+            
+            
+            int test10 = 10;
 
         }
     }
